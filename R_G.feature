@@ -1,19 +1,1017 @@
-BDD LATEST 
+Scenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
 
-1
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
 
-2
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
 
-3
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
 
-4
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
 
-5
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
 
-6
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
 
-7
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
 
-8
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
 
-9
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut SuccessfullyScenario: Successful Login with Valid Credentials
+	Given User is on Home Page
+	When User Navigate to LogIn Page
+	And User enters UserName and Password
+	Then Message displayed Login Successfully
+
+Scenario: Successful LogOut
+	When User LogOut from the Application
+	Then Message displayed LogOut Successfully
