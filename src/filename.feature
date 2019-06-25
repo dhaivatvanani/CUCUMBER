@@ -1,2 +1,3 @@
 create issue in application update file
-update data
+update data 
+data from jira
